@@ -1,9 +1,13 @@
 # Toyorun
+<<<<<<< HEAD
 ![Handout/](ReadmeAssets/HANDOUT.jpg)
 ![Prima Slide Pitch - FileAggiuntivi/ ](FileAggiuntivi/ReadmeAssets/Pitch-Toyorun-Final1-10.png)
 ![Cover GDD - FileAggiuntivi/](FileAggiuntivi/ReadmeAssets/GDD-Toyorun-Final1-26.png)
 # Index 
 **For the GDD and other Game Design related docs see: "FileAggiuntivi"** 
+=======
+![Toyorun Libro](ReadmeAssets/ToyorunBook.png)
+>>>>>>> 00c6c5cbb13add7e4d2cf6c7ad16a1c6f667a00f
 
 - TODO
 

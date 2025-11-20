@@ -1,13 +1,6 @@
 # Toyorun
-![Handout/](ReadmeAssets/HANDOUT.jpg)
-![Prima Slide Pitch - FileAggiuntivi/ ](FileAggiuntivi/ReadmeAssets/Pitch-Toyorun-Final1-10.png)
-![Cover GDD - FileAggiuntivi/](FileAggiuntivi/ReadmeAssets/GDD-Toyorun-Final1-26.png)
-# Index 
-**For the GDD and other Game Design related docs see: "FileAggiuntivi"** 
+![Toyorun Libro](ReadmeAssets/ToyorunBook.png)
 
-- TODO
-
-## Overview
 The first complete game i made, this project was also an assignment from my academy!
 This game features a simple **hack'n'slash** combat system, **bright colors** and some beautiful **voxel art**, all made by me!!!
 

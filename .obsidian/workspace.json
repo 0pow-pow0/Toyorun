@@ -11,14 +11,10 @@
             "id": "50612d5bc813b1d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a README"
+              "title": "Riferimenti"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da README"
+              "title": "Collegamenti in uscita"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di README"
+              "title": "Struttura"
             }
           }
         ],
@@ -185,12 +178,25 @@
   },
   "active": "50612d5bc813b1d6",
   "lastOpenFiles": [
+    "README.md.orig",
+    "README_REMOTE_1346.md",
+    "README_LOCAL_1346.md",
+    "README_BASE_1346.md",
+    "README_BACKUP_1346.md",
+    "README_REMOTE_223.md",
+    "README_LOCAL_223.md",
+    "README_BASE_223.md",
+    "README_BACKUP_223.md",
+    "README.md",
+    "README_REMOTE_984.md",
+    "README_LOCAL_984.md",
+    "README_BASE_984.md",
+    "README_BACKUP_984.md",
     "FileAggiuntivi/High concept document - Toyorun - Final.pdf",
     "FileAggiuntivi/GDD - Toyorun - Final.pdf",
     "FileAggiuntivi/Pitch - Toyorun - Final.pdf",
     "ReadmeAssets/Pitch-Toyorun-Final1-10.md",
     "ReadmeAssets/Pitch.md",
-    "README.md",
     "ReadmeAssets",
     "FileAggiuntivi/ReadmeAssets/GDD-Toyorun-Final1-26.png",
     "Pitch-Toyorun-Final1-10.md",
