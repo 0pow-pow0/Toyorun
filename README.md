@@ -36,6 +36,7 @@ You must grab the enemies and throw them, in order to kill the wizards, there's 
 This game features a simple voxel art merged with low-poly models and elements in pixel art.
 All lowpoly models (except the castle) and all voxel models are made by me!
 Some pixel art elements were taken from itch.io paid bundles and modified to fit with the game artstyle.
+<br/>
 <img src="FileAggiuntivi/ReadmeAssets/RenderedImage0.png" width="200" />
 <img src="FileAggiuntivi/ReadmeAssets/RenderedImage.png" width="200" />
 <img src="FileAggiuntivi/ReadmeAssets/ToyorunBook.png" width="200" />
