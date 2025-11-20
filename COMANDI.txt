@@ -1,0 +1,5 @@
+wasd per muoversi
+J per attaccare
+K per schivare 
+U per muovere oggetti
+L/L per grabbare e tirare nemici

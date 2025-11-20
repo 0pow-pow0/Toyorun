@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BaseCombo
+  - GrabColliderPivot
+  - Barile
+  - PressurePlate
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Light
+  - Water
+  - UI
+  - PlayerBodyCollider
+  - Terrain
+  - PlayerAttackCollider
+  - SimpleEnemyAttackCollider
+  - SimpleEnemyBodyCollider
+  - SimpleEnemy
+  - Player
+  - MageEnemyAttackCollider
+  - MageEnemyBodyCollider
+  - PlayerGrabCollider
+  - MageEnemySphereAttackCollider
+  - MageEnemyWaveAttackCollider
+  - MageEnemyStraighAttackCollider
+  - MageEnemy
+  - LevelSectionWallCollider
+  - NonPixelatedTarget
+  - bobyMesh
+  - madnessPix
+  - BarrelActivationCollider
+  - BarrelCollider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
