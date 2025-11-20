@@ -37,8 +37,8 @@ This game features a simple voxel art merged with low-poly models and elements i
 All lowpoly models (except the castle) and all voxel models are made by me!
 Some pixel art elements were taken from itch.io paid bundles and modified to fit with the game artstyle.
 <img src="FileAggiuntivi/ReadmeAssets/RenderedImage0.png" width="200" />
-<img src="FileAggiuntivi/ReadmeAssets/RenderedImage.png width="200" />
-<img src="FileAggiuntivi/ReadmeAssets/ToyorunBook.png width="200" />
+<img src="FileAggiuntivi/ReadmeAssets/RenderedImage.png" width="200" />
+<img src="FileAggiuntivi/ReadmeAssets/ToyorunBook.png" width="200" />
 
 ## Programming Workflow
 
