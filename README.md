@@ -2,6 +2,7 @@
 <img src="FileAggiuntivi/ReadmeAssets/HANDOUT.jpg" width="300"/>
 <img src="FileAggiuntivi/ReadmeAssets/Pitch-Toyorun-Final1-10.png" width="500" />
 <img src="FileAggiuntivi/ReadmeAssets/GDD-Toyorun-Final1-26.png" width="500" />
+
 # Index 
 **For the GDD and other Game Design related docs see: "FileAggiuntivi"** 
 
