@@ -30,7 +30,7 @@ All lowpoly models (except the castle) and all voxel models are made by me!
 Some pixel art elements were taken from itch.io paid bundles and modified to fit with the game artstyle.
 ![](ReadmeAssets/RenderedImage0.png)
 ![](ReadmeAssets/RenderedImage.png)
-![](ReadmeAssets/image.png)
+![](ReadmeAssets/ToyorunBook.png)
 
 ## Programming Workflow
 
