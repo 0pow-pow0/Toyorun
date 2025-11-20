@@ -1,6 +1,13 @@
 # Toyorun
-![[ToyorunBook.png|349x349]]
+![Handout/](ReadmeAssets/HANDOUT.jpg)
+![Prima Slide Pitch - FileAggiuntivi/ ](FileAggiuntivi/ReadmeAssets/Pitch-Toyorun-Final1-10.png)
+![Cover GDD - FileAggiuntivi/](FileAggiuntivi/ReadmeAssets/GDD-Toyorun-Final1-26.png)
+# Index 
+**For the GDD and other Game Design related docs see: "FileAggiuntivi"** 
 
+- TODO
+
+## Overview
 The first complete game i made, this project was also an assignment from my academy!
 This game features a simple **hack'n'slash** combat system, **bright colors** and some beautiful **voxel art**, all made by me!!!
 
@@ -28,9 +35,9 @@ You must grab the enemies and throw them, in order to kill the wizards, there's 
 This game features a simple voxel art merged with low-poly models and elements in pixel art.
 All lowpoly models (except the castle) and all voxel models are made by me!
 Some pixel art elements were taken from itch.io paid bundles and modified to fit with the game artstyle.
-![[RenderedImage0.png|401x226]]
-![[RenderedImage.png|401x225]]
-![[image.png|291x291]]
+![](ReadmeAssets/RenderedImage0.png)
+![](ReadmeAssets/RenderedImage.png)
+![](ReadmeAssets/ToyorunBook.png)
 
 ## Programming Workflow
 

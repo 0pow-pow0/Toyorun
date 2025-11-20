@@ -1,8 +1,0 @@
-Wasd per muoveri
-j per attaccare
-k per schivare
-L/L per grabbare e tirare
-U per muovere oggetti
-
-
-per uccidere i maghi devi lanciargli i nemici addosso

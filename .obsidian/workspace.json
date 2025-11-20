@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "f3f567fbfe57a40d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9183fc35c883744d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50612d5bc813b1d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1ae8f5780ed532f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2055592e58c40a72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53c9d6782d6b1b98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "3e5c1e18c6b0aea7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "a59cc9d272dad1d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8323e29344cdc3ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2093070e564a459",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57a506537390f6b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a README"
+            }
+          },
+          {
+            "id": "4dbe3cf4fd5eede2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da README"
+            }
+          },
+          {
+            "id": "1db5438b9b0316f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "b1a2127fc8c22b01",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          },
+          {
+            "id": "b9055c292c676c6a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di README"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "50612d5bc813b1d6",
+  "lastOpenFiles": [
+    "FileAggiuntivi/High concept document - Toyorun - Final.pdf",
+    "FileAggiuntivi/GDD - Toyorun - Final.pdf",
+    "FileAggiuntivi/Pitch - Toyorun - Final.pdf",
+    "ReadmeAssets/Pitch-Toyorun-Final1-10.md",
+    "ReadmeAssets/Pitch.md",
+    "README.md",
+    "ReadmeAssets",
+    "FileAggiuntivi/ReadmeAssets/GDD-Toyorun-Final1-26.png",
+    "Pitch-Toyorun-Final1-10.md",
+    "FileAggiuntivi/ReadmeAssets/Pitch-Toyorun-Final1-10.png",
+    "README Toyorun.md",
+    "FileAggiuntivi/ReadmeAssets/HANDOUT.jpg",
+    "FileAggiuntivi/ReadmeAssets/RenderedImage.png",
+    "FileAggiuntivi/ReadmeAssets/RenderedImage0.png",
+    "FileAggiuntivi/ReadmeAssets/ToyorunBook.png",
+    "FileAggiuntivi/Programming Maps.pdf"
+  ]
+}
