@@ -1,5 +1,5 @@
 # Toyorun
-![Handout](ReadmeAssets/HANDOUT.jpg)
+![Handout](FileAggiuntivi/ReadmeAssets/HANDOUT.jpg)
 ![Prima Slide Pitch - FileAggiuntivi/ ](FileAggiuntivi/ReadmeAssets/Pitch-Toyorun-Final1-10.png)
 ![Cover GDD - FileAggiuntivi/](FileAggiuntivi/ReadmeAssets/GDD-Toyorun-Final1-26.png)
 # Index 
